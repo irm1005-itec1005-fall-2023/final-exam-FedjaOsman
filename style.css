@@ -25,6 +25,8 @@
  *
  * @media screen and (min-width: 800px) {
  *    ... your styles here ...
+
+
  * }
  */
 
@@ -52,7 +54,6 @@ body {
   white-space: nowrap;
   border: 0;
  }
-
 
 /*
  * SHARED STYLES
@@ -103,7 +104,7 @@ body {
 main{
   padding-top: 3rem;
 }
- 
+
 main .hero{
 display: flex;
 flex-direction: column;
@@ -159,7 +160,7 @@ main .boxes a{
   background-color: #93c9e2;
 }
 
-/* ///////////////////////////////////////////////// */
+/* //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\ */
 main .about {
   display: flex;
   flex-direction: row;
@@ -215,21 +216,18 @@ main .works{
   display: flex;
   flex-direction: row;
   gap: 5px;
-
 }
 
 .works #things3{
   display: flex;
   flex-direction: row;
   gap: 5px;
-
 }
 
 .works #things4{
   display: flex;
   flex-direction: row;
   gap: 5px;
-
 }
 
 main .work-container{
@@ -278,7 +276,7 @@ main .contact-me{
   background-color: #1e1c5f;
 }
 
- /* ///////////////////////////////////////////////// */ 
+/* ///////////////////////////////////////////////// */ 
 footer hr{
   margin-left: 3rem;
   margin-right: 3rem;
